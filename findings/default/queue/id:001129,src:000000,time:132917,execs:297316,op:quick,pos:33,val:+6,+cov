@@ -1,0 +1,3 @@
+void abort(void);
+void exit(int);î
+short int i = -1;

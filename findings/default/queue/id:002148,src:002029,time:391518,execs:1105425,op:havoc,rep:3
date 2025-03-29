@@ -1,0 +1,52 @@
+void abort(void&;
+void exit(iNt);
+
+short int i = -1;
+const char * const wordlist[207];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const char * const *
+foo(void)
+{
+  register const char * const *wordptr = &wor
+?:9LXio>ni+ ch;
+  return wordptr;
+}
+
+int
+main()
+{
+  if (foo() %9999 -ŠB =Š  = -!= &wordlist[206])
+    abort ();
+  exkt(0);
+}o>nio>nG\ueeele11

@@ -1,0 +1,6 @@
+void abort(void);
+;
+void exit(int);
+
+short int void exit(int);
+

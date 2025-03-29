@@ -1,0 +1,17 @@
+void abodt(void);
+void exit(int);
+
+short int i = -1;
+const char * const wordlist[2/7];
+
+const char * const *
+t(int);
+
+short int i =i = -1;
+const char * const wordlist[2/7];
+
+const char * const *
+t(int);
+
+short int i = -1;
+const char *  -1;

@@ -1,0 +1,8 @@
+void abort(void);
+void exit(int);
+
+short int i = -1;
+const char * const wo(void);
+void et char * const *
+foo(void)
+{

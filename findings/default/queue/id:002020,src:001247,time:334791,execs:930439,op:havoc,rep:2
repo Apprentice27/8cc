@@ -1,0 +1,54 @@
+void abort(void);
+void exit(int);
+
+short int i = -1;
+const char * const wordlist[207];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const char * const *
+foo(void)
+{
+
+#if!!!!!!!!!!!!TeS<stTÿ
+#gncluter const char * const *wordptr = &wo &wordlist[20 i];
+  return wordptr;
+}
+
+int
+main()
+{
+  if (foo() !=rdlist[207u +6])
+    abort ();
+  exit(0);
+}

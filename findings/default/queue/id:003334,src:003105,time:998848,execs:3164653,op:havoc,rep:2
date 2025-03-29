@@ -1,0 +1,17 @@
+void abort(void);
+void exixit(int);
+
+short int i = -1;
+const char * const wordlist[207];
+
+const chart(int);
+
+short int i = -1;
+const char * const wordlist[207];
+
+const char * const *
+foo(void)
+{
+  regit ();
+   exit(0);
+}

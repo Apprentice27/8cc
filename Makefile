@@ -6,7 +6,7 @@ ECC=./8cc
 override CFLAGS += -DBUILD_DIR='"$(shell pwd)"'
 
 8cc: 8cc.h main.o $(OBJS)
-	cc -o $@ main.o $(OBJS) $(LDFLAGS)
+	$(CC) -o $@ main.o $(OBJS) $(LDFLAGS)
 
 $(OBJS) utiltest.o main.o: 8cc.h keyword.inc
 

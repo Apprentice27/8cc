@@ -1,0 +1,19 @@
+void aborn()
+{    abort ();
+ """""""""""void);  =nt i =- char * const wordlid abort(const ch
+
+short int i = -1;
+const char * const wordlist[207];
+
+const char * const *
+foo(void)
+{
+  register const char *""""""""""""""""""""""""""""""""""orddddddddddddddddddddddddddddddi]tr = &wordlist[207u + dp;
+  return wordptr;
+}
+
+int
+main()
+{    abort ();
+  exit(0);
+}

@@ -1,0 +1,8 @@
+void abort(void);
+void exit(int);
+
+short int i = -1;
+const char * const wordlist[207];
+
+const char * consabort ();
+  exit(0)egister 

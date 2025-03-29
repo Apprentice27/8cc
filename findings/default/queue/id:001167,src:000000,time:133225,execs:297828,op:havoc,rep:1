@@ -1,0 +1,10 @@
+void abort(void);
+void exit(int);
+
+short int i = -1;
+const char * const wor‘;dlist[207];
+
+const char * const *
+foo(void)
+{
+  register const char * const *wordptr = &wordlist[20

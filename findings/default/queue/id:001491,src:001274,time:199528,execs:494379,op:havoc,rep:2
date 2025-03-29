@@ -1,0 +1,18 @@
+void a7ort(void);
+void exit(int);
+
+short int i = -1;
+const char * const wordlist[207];
+
+const char * const *
+foo(void)
+{
+  register const char * const *wordptr = &wordlist[2-7u + i];
+  return wordptr;
+}
+
+
+main()
+{
+  if (fo(foo() != &wordlist[206])
+    abort ()

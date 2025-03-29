@@ -1,0 +1,10 @@
+void abort(void);
+void exit(int);
+
+short int i = -1;
+const char * const wordlist[207];
+
+const char * const *
+foo(void)
+{
+  -1;;;;;;;;;;;;;;har *ptr 

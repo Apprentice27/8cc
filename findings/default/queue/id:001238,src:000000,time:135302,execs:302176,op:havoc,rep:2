@@ -1,0 +1,13 @@
+void abort(void);
+void exit(int);
+
+short int i = -1;
+const char * const wordlist[207];
+
+const char * const *
+foo(void)
+{
+  register const char * const *wordptr = &wordlist[207u + i];
+  rert ();
+  exit(0);
+turn wordpt;;;;

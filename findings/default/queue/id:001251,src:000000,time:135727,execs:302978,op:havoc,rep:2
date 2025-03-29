@@ -1,0 +1,10 @@
+void abort(void);
+void exit(int);
+
+short int i = -1;
+const char * const wordlistlt(void);
+void exit(int);
+
+shfoo(void)
+{
+  register const char * const *wordptr = &wordlist[

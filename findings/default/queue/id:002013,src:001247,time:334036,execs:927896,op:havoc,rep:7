@@ -1,0 +1,49 @@
+void abort(void);
+void exit(int);
+
+short int i = -1;
+const char * const wordlist[207];
+
+
+
+
+
+
+ç
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ister co
+
+
+
+
+con(((((((((((st char * const *
+foo(void)
+{
+  register const char * const *wordptr = &wordlist[207u + i];
+  return wordptr;
+}
+
+intrdptr = &wordlist[207u + 
+maGn()
+{
+  if (foo() != &wmrdlist[206])
+    abort ();
+  exit(0);
+}

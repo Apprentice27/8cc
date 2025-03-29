@@ -1,0 +1,10 @@
+void at(int);
+
+short 
+const  at(int);
+
+char * const wortbort(void);
+void exit(int);
+
+short 
+const char * const wort[207];

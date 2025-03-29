@@ -1,0 +1,6 @@
+# environment variables:
+AFL_CUSTOM_INFO_PROGRAM=./8cc
+AFL_CUSTOM_INFO_PROGRAM_ARGV=-c @@ -o /dev/null
+AFL_CUSTOM_INFO_OUT=findings/default
+# command line:
+'afl-fuzz' '-i' 'corpus' '-o' 'findings' '--' './8cc' '-c' '@@' '-o' '/dev/null'

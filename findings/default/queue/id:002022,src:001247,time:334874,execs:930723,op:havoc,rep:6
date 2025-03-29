@@ -1,0 +1,50 @@
+void abort(void);
+void exit(xit(0)
+short int i st[207u + i];= -1;
+constÿ€har * const wordlist[207];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const char * const *
+foo(void)
+{
+  register const char * const *wordptr = &wordlist[207u + i];
+  return wordptr;
+}
+
+int
+main()
+{
+  if (foo() != &wordlllll~lllllllllllort ();   eint);
+;
+}
